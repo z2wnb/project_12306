@@ -1,9 +1,12 @@
-#query_ticket.py ³µÆ±²éÑ¯Ô´Âë£¨ÎŞÆ±¼ÛĞÅÏ¢£©
-#add_price_query_ticket.py ³µÆ±²éÑ¯Ô´Âë£¨ÓĞÆ±¼ÛĞÅÏ¢£©
-#chromedriver.exe seleniumä¯ÀÀÆ÷Çı¶¯³ÌĞò
+#query_ticket.py è½¦ç¥¨æŸ¥è¯¢æºç ï¼ˆæ— ç¥¨ä»·ä¿¡æ¯ï¼‰
 
-#´ò°ü³ÌĞòÃüÁî
+#add_price_query_ticket.py è½¦ç¥¨æŸ¥è¯¢æºç ï¼ˆæœ‰ç¥¨ä»·ä¿¡æ¯ï¼‰
+
+#chromedriver.exe seleniumæµè§ˆå™¨é©±åŠ¨ç¨‹åº
+
+#æ‰“åŒ…ç¨‹åºå‘½ä»¤
+
 pyinstaller -F --icon=ticket.ico query_ticket.py
 pyinstaller -F --icon=ticket.ico add_price_query_ticket.py
 
-#ÔËĞĞquery_ticket.exe¡¢add_price_query_ticket.exe
+#è¿è¡Œquery_ticket.exeã€add_price_query_ticket.exe
